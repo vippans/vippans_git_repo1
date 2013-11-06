@@ -1,4 +1,0 @@
-test
-new row
-another row
-row 4
